@@ -2,24 +2,23 @@
 
 <img width="1893" height="860" alt="image" src="https://github.com/user-attachments/assets/32592567-7e15-4d41-96d8-32c77803a1c6" /> <br>
 
-Este projeto foi desenvolvido por Gustavo Campelo (WebHub) e inspirado no universo da série Stranger Things.
+This project was developed by Gustavo Campelo (WebHub) and inspired by the universe of the Stranger Things series.
 
-A proposta consiste em criar uma experiência visual imersiva através de animações avançadas, explorando o potencial da biblioteca GSAP para transformar uma página estática em uma narrativa dinâmica baseada na interação do utilizador com o scroll.
+The proposal consists of creating an immersive visual experience through advanced animations, exploring the potential of the GSAP library to transform a static page into a dynamic narrative based on user interaction with scrolling.
 
-Durante o desenvolvimento, o foco principal foi aprofundar conhecimentos em HTML, CSS, JavaScript e GSAP, implementando diferentes técnicas de animação para enriquecer a experiência do utilizador e tornar a navegação mais envolvente.
+During development, the main focus was to deepen knowledge of HTML, CSS, JavaScript, and GSAP, implementing different animation techniques to enrich the user experience and make navigation more engaging.
 
-Entre os destaques do projeto estão o ecrã de carregamento personalizado com o logótipo da série, efeitos de parallax, animações sincronizadas com o scroll, transições suaves entre secções e um carrossel infinito no rodapé.
-
-
-<br>
-
-## Projeto Online
-
-🔗 [Acesse o Projeto](https://strangerthingxx.github.io/)
+Among the project's highlights are the custom loading screen featuring the series logo, parallax effects, scroll-synchronized animations, smooth transitions between sections, and an infinite carousel in the footer.
 
 <br>
 
-## Tecnologias
+## Online Project
+
+🔗 [Access the Project](https://strangerthingxx.github.io/)
+
+<br>
+
+## Technologies
 
 - HTML5
 - CSS3
@@ -28,33 +27,33 @@ Entre os destaques do projeto estão o ecrã de carregamento personalizado com o
 
 <br>
 
-## Funcionalidades
+## Features
 
-- Loader animado inspirado na identidade visual de Stranger Things
-- Efeito parallax aplicado a elementos da página
-- Animações sincronizadas com o scroll utilizando GSAP ScrollTrigger
-- Aparição e desaparecimento progressivo de textos e imagens
-- Transições suaves entre secções
-- Carrossel infinito no rodapé
-- Design responsivo para dispositivos móveis, tablets e desktops
-- Interface temática inspirada na série Stranger Things
+- Animated loader inspired by the visual identity of Stranger Things
+- Parallax effect applied to page elements
+- Scroll-synchronized animations using GSAP ScrollTrigger
+- Progressive appearance and disappearance of text and images
+- Smooth transitions between sections
+- Infinite carousel in the footer
+- Responsive design for mobile devices, tablets, and desktops
+- Thematic interface inspired by the Stranger Things series
 
 <br>
 
-## Aprendizados
+## Learnings
 
-Durante o desenvolvimento deste projeto pratiquei:
+During the development of this project, I practiced:
 
-- Criação de animações complexas com GSAP
-- Utilização do plugin ScrollTrigger
-- Técnicas de Parallax
-- Otimização da experiência visual do utilizador
-- Organização de projetos front-end
-- Desenvolvimento de layouts responsivos
-- Aprofundar ideias de criação de imagem usando Figma e Photoshop
+- Creating complex animations with GSAP
+- Using the ScrollTrigger plugin
+- Parallax techniques
+- Optimizing the user's visual experience
+- Front-end project organization
+- Developing responsive layouts
+- Expanding image design and creation concepts using Figma and Photoshop
 
-## Autor
+## Author
 
-Projeto desenvolvido por Gustavo Campelo.
+Project developed by Gustavo Campelo.
 
 🔗 [YouTube](https://www.youtube.com/@gucampelo)
