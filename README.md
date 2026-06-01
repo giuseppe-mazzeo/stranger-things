@@ -52,6 +52,8 @@ During the development of this project, I practiced:
 - Developing responsive layouts
 - Expanding image design and creation concepts using Figma and Photoshop
 
+<br>
+
 ## Author
 
 Project developed by Gustavo Campelo.
