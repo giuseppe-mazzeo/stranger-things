@@ -23,14 +23,14 @@ Among the project's highlights are the custom loading screen featuring the serie
 - HTML5
 - CSS3
 - JavaScript
-- GSAP
+- GSAP (ScroollTrigger and ScrollSmoother)
 
 <br>
 
 ## Features
 
 - Animated loader inspired by the visual identity of Stranger Things
-- Parallax effect applied to page elements
+- Parallax effect applied to page elements using ScrollSmoother
 - Scroll-synchronized animations using GSAP ScrollTrigger
 - Progressive appearance and disappearance of text and images
 - Smooth transitions between sections
@@ -45,8 +45,8 @@ Among the project's highlights are the custom loading screen featuring the serie
 During the development of this project, I practiced:
 
 - Creating complex animations with GSAP
-- Using the ScrollTrigger plugin
-- Parallax techniques
+- Using the ScrollTrigger and ScrollSmoother plugin
+- Parallax techniques using ScrollSmoother
 - Optimizing the user's visual experience
 - Front-end project organization
 - Developing responsive layouts
