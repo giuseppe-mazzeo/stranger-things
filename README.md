@@ -14,7 +14,8 @@ Among the project's highlights are the custom loading screen featuring the serie
 
 ## Online Project
 
-🔗 [Access the Project](https://strangerthingxx.github.io/)
+🔗 [Access the Project](https://giuseppe-mazzeo.github.io/stranger-things/)
+
 
 <br>
 
